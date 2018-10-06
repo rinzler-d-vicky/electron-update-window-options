@@ -15,10 +15,10 @@
   "files": [
     "dist"
   ],
-  "author": "Eamon mikulec <boogie@mikulec.com>",
+  "author": "Rinzler D. Vicky",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ocboogie/electron-update-window-options.git"
+    "url": "https://github.com/rinzler-d-vicky/electron-update-window-options.git"
   },
   "license": "MIT",
   "engines": {
@@ -50,7 +50,8 @@
       "tsx",
       "js",
       "jsx"
-    ]
+	],
+	"testEnvironment": "node"
   },
   "devDependencies": {
     "@types/electron": "^1.6.10",
